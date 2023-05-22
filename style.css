@@ -1,0 +1,20 @@
+div{
+    background-color: aqua;
+    
+}
+h1{
+    background-color: red;
+    text-align: center;
+    width: 70px;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 5em;
+    padding-right: 7em;
+
+
+}
+h2{
+    background-color: green;
+    margin: 2em;
+    padding: 3em;
+}

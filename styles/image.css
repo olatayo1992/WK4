@@ -1,0 +1,70 @@
+.ghana{
+    width: 700px;
+    height: 400px;
+    margin: auto;
+    background-image: url(../paul-walker.webp) ,linear-gradient(180deg,red 30%, yellow 30%, yellow 65%, green 65% );
+background-repeat: no-repeat;
+background-position: center;
+margin-bottom: 50px;
+background-size: 100px, 500px;
+}
+
+body{
+    background-color: blue;
+}
+
+
+
+
+
+
+
+.iconic{
+    text-transform: uppercase;
+    font-size: 4em;
+    text-align:center ;
+    width: 700px;
+    height: 400px;
+    margin-top: 30px;
+    color: transparent;
+    background:conic-gradient(red 30%, green 30%, blue 60%, lightblue 60%)
+    
+}
+.image{
+    width: 700px;
+    height: 400px;
+    background:url(../diego-removebg-preview.png) ;
+    background-size: cover;
+    color: transparent;
+    font-size: 4em;
+    -webkit-background-clip: text;
+    text-align: center;
+
+ }
+
+.online{
+    width: 700px;
+    height: 400px;
+    background-image: url(); 
+    background-size: 150px;
+    background-image: url(https://images.unsplash.com/photo-1682547095120-f8946d88197a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80,)
+    , url(../ronaldo-removebg-preview.png), url(../diego-removebg-preview.png);
+    background-position: center,top left,bottom right;
+    background: no-repeat, no-repeat,no-repeat,repeat; 
+    margin-bottom: 50px;
+}
+.blend{
+    width:700px ;
+    height:400px ;
+    background-color:green ;
+    background-image:url(../ronaldo-removebg-preview.png) ;
+    background-size:cover ;
+}
+
+
+.blend:hover{
+    background-blend-mode: overlay;
+    cursor: pointer;
+}
+
+

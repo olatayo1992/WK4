@@ -1,0 +1,35 @@
+main{
+    background-color: aqua;
+    color: blue;
+    width: 80%;
+    text-align: center;
+    min-height: ;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+h2{
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    padding-left: 2em;
+    padding-right: 2em;
+    
+}
+h2{
+    border-bottom:10px groove lightgreen ;
+    margin-bottom: 1em;
+}
+p{
+    font-size: 2rem;
+border-left: 10px groove;
+border-right: 10px groove;
+}
+html{
+    font-size: 20px;
+}
